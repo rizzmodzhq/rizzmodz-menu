@@ -3,22 +3,22 @@ Label: RizzModz
 Suite: stable
 Version: 1.0
 Codename: rizzmodz
-Date: Thu, 12 Nov 2026 22:35:44 GMT
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Date: Thu, 19 Nov 2026 01:34:56 GMT
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: RizzModz Mod Menu, RMz Framework and RMz Companion
+Description: RMz Mod Menu, RMz Framework and RMz Companion
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e                0 Packages
- fa9ac5a217b5547bc7dd4e6e894fe135               20 Packages.gz
- 4059d198768f9f8dc9372dc1c54bc3c3               14 Packages.bz2
- 8dc5aea5b03dff8595f096f9e368e888               32 Packages.xz
+ 3dd6cff6afe8be25dc688d4e6f00dd75             3191 Packages
+ a1aa9dd692ae90a83d77b92974ef7bf7             1122 Packages.gz
+ 7f99df413b4f7f071e93a50cdc332a8c             1266 Packages.bz2
+ 085ac0eb1b8da4f9a3d14397f8df967f             1148 Packages.xz
 SHA1:
- da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages
- 89892054d65b8b0dd6a081b33a97b6f2bd1fa267               20 Packages.gz
- 64a543afbb5f4bf728636bdcbbe7a2ed0804adc2               14 Packages.bz2
- 9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 Packages.xz
+ 4a7c02ddb81bb6b4004a55f26f6cedf70492fcfb             3191 Packages
+ bde462d93528352d9469734478a3120bcd344ce0             1122 Packages.gz
+ 6c65791e9f7c5ae9099e4fe5651d04e5fa365ab7             1266 Packages.bz2
+ 3761c7fb9f92059a7b765e5721608071034ff980             1148 Packages.xz
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages
- 9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64               20 Packages.gz
- d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058               14 Packages.bz2
- 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 Packages.xz
+ d4ba8399012d02b5ec6e4d81102dd0142434eddf12ab60d826de6263985ab135             3191 Packages
+ 2885dcd6f33b4842e698f177036aea9ff74bfc844ebf1d16cdac0f9b4e09f99d             1122 Packages.gz
+ 577887043fc4d2ec55639e1774b03af1642d9f002dffc480d878c635e295a6fd             1266 Packages.bz2
+ 0eb6747b7aee31b0c6710bd01acc41502270f521adaab35d8c3039d9cc7f4f0f             1148 Packages.xz
