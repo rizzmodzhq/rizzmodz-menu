@@ -3,22 +3,22 @@ Label: RizzModz
 Suite: stable
 Version: 1.0
 Codename: rizzmodz
-Date: Thu, 19 Nov 2026 01:28:53 GMT
+Date: Fri, 20 Nov 2026 05:21:44 GMT
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: RMz Mod Menu, RMz Framework and RMz Companion
 MD5Sum:
- 6b391fddef64006bc1b7d019d53ea98b             6369 Packages
- 359dcc1ed1ceb353fefd408d81ad8ec0             1771 Packages.gz
- 77bc67f814c07a3a9ed4425260bb30ac             1925 Packages.bz2
- 2d06e4184d7fffb8929ba7f6335607b6             1712 Packages.xz
+ aae95ffbe92860066366663e8c3bc2cc             7379 Packages
+ 0d2729f8dae13ad157d5fdeb07f6c85d             1977 Packages.gz
+ d2c9fda03ed3169784510a1066126b2b             2123 Packages.bz2
+ f89454532c5ed405d7aea6a4e0959aa1             1884 Packages.xz
 SHA1:
- f76f641dc29135b58cf1ec350ca2a13fd1aa90fe             6369 Packages
- 0bbe90803e87bd5125009fe72c60998665f09025             1771 Packages.gz
- a740ff6879246821b534a5ab613bac4a777366cb             1925 Packages.bz2
- 9b85dd6876b742ea61c2597a5fd5d991ec228abd             1712 Packages.xz
+ c6ca3768220a734702bf473c04120275b3f6694d             7379 Packages
+ b6f55873c255f24b486efcfdbb69b636ddd2bfb9             1977 Packages.gz
+ 06368e4bd19c79d008187c9824a39859f1d04e26             2123 Packages.bz2
+ 45cd77dd76baaa137608f8cdfc58d7cca61571ca             1884 Packages.xz
 SHA256:
- 495ec2c9819f37f3608db9f9d829ef5ea4d0747b841e12bb90ecd4f75be67301             6369 Packages
- e8dcd2ff91d7d19b9a2461f260bd414986a74d56a538552103a886233fab19be             1771 Packages.gz
- 5ec91e88b882b5572d797a443df432e6efb80a10f246a83d571e90ef34c0633a             1925 Packages.bz2
- 31f220d54301419a5f4faab4d161ed90b32c752a2c2d17412a229921ad2db771             1712 Packages.xz
+ 57b2a3ca68a69aa7e35bca50aac8505c118a8b5359c19bb481c19f0e2a1eeabf             7379 Packages
+ 748d9a7947af1b9a930a5ea5b0cf77cce4d33e1d422c5a56252a281eee77f8dc             1977 Packages.gz
+ b98dfe7389788c2ca26d044ea24e5d36fc338b2657dbc681812db7ef942953f1             2123 Packages.bz2
+ b617be709201ab472050548752a46cb56c29a162509412a5d161417cbad9a899             1884 Packages.xz
