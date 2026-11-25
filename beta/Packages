@@ -41,10 +41,10 @@ Architecture: iphoneos-arm
 Version: 1.1.0
 Installed-Size: 304
 Filename: debs/com.rizzmodz.companion_1.1.0_iphoneos-arm.deb
-Size: 141832
-MD5sum: ba5793c61c15d5e6b6f6d7932d0ea7b7
-SHA1: 10f09290104e10c5923e5ea0a4a0608382f94442
-SHA256: 079892f6035b97c4908566cea28a52791d26b7e4560383648c13788c93a972b2
+Size: 141792
+MD5sum: ff738407b47f4f17f7a5e23d740fa802
+SHA1: 5454fa979f99424dab700de6299d7d4018785a09
+SHA256: 3c891fd86623a21202c837d6978a2e0fe57c48a9a97ca6c529d12af07769fdd6
 
 Package: com.rizzmodz.companion
 Name: RMz Companion
@@ -57,10 +57,10 @@ Architecture: iphoneos-arm64
 Version: 1.1.0
 Installed-Size: 304
 Filename: debs/com.rizzmodz.companion_1.1.0_iphoneos-arm64.deb
-Size: 141728
-MD5sum: cc605fc9d5609f9f2ab920c5f8e06e01
-SHA1: 1dd71d9e695ff75686921611cf35531560109f36
-SHA256: 9d06f166b1736d5260194823f46442c3c444ad0b5781c54d1e2abdcee2618d49
+Size: 141914
+MD5sum: e9dda0e95c772aa755953a2f8e44971c
+SHA1: a16d82f678cf8f6b995d0149cfaad8482aeb5dcf
+SHA256: 3a5c87b90c705586505e19e71202ec428ef691f61e3218eeb4c9ca6de8251dd2
 
 Package: com.rizzmodz.rmz
 Name: RMz Framework
@@ -254,6 +254,38 @@ MD5sum: 1c8e2dd61a2de97a21141d5bfff2d4f9
 SHA1: 117fd5a9b15cbe246093f80656665b4180cee893
 SHA256: e8771fd622dbac9051584cea271320875369e2fbc75f4ba28a7e2e10348eda76
 
+Package: com.rizzmodz.rmz
+Name: RMz Framework
+Description: The RMz mod menu framework. Required by the RMz Mod Menu and by solo mods.
+Maintainer: RizzModz
+Author: RizzModz
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm
+Version: 3.4.1
+Installed-Size: 5768
+Filename: debs/com.rizzmodz.rmz_3.4.1_iphoneos-arm.deb
+Size: 1349272
+MD5sum: 31e82ad3608ba4b2817bb8da90b8f4c0
+SHA1: ba2682af1775a24318a8a2ec4ad839b18f22dfb3
+SHA256: f78ed3e624d8e5e45aba56b87485d347eb86bd9474dab0d9f759ac75e1cd3cb7
+
+Package: com.rizzmodz.rmz
+Name: RMz Framework
+Description: The RMz mod menu framework. Required by the RMz Mod Menu and by solo mods.
+Maintainer: RizzModz
+Author: RizzModz
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 3.4.1
+Installed-Size: 5768
+Filename: debs/com.rizzmodz.rmz_3.4.1_iphoneos-arm64.deb
+Size: 1349330
+MD5sum: 92435d8974689c7a2a2264af5fe7bc43
+SHA1: a0aa70f411c3a65305d5ba90d5fd24800237ccf1
+SHA256: 1c86edbe54292331d1a4fa5863ec59053ab9b6350ac32d73793d199115fbc457
+
 Package: com.rmz.modmenu
 Name: RMz Mod Menu
 Description: One mod menu for all supported games, with automatic updates.
@@ -265,10 +297,10 @@ Architecture: iphoneos-arm
 Version: 3.0.1
 Installed-Size: 180
 Filename: debs/com.rmz.modmenu_3.0.1_iphoneos-arm.deb
-Size: 24380
-MD5sum: 5ebacdce3b8ea83f3577abacfc0496a4
-SHA1: 6fb462dce8177070ae2c0304f0550a7db84f15d8
-SHA256: cb039af3ad0f17a18c7bdd376070bf8e05f997a00065036549856d66b599cdf3
+Size: 24358
+MD5sum: 242beddda3a9cc5c22be8e33d8d6c647
+SHA1: 8504f75b0c165781d4f129ef81575d3261710643
+SHA256: bd59143a7425a5fa2be0e711b69e7c6ceccb43fccbc43209d6c5cefec03457d4
 
 Package: com.rmz.modmenu
 Name: RMz Mod Menu
@@ -281,7 +313,7 @@ Architecture: iphoneos-arm64
 Version: 3.0.1
 Installed-Size: 180
 Filename: debs/com.rmz.modmenu_3.0.1_iphoneos-arm64.deb
-Size: 24444
-MD5sum: 4a343301f31820004b29e4d02d490eda
-SHA1: f9a740aa93402b98109d861363b29abac9bf15d0
-SHA256: ec0783af0922351c9970f29b9f0e4705f963631242715dcc748c24697682f7e3
+Size: 24430
+MD5sum: 15d1574cef4c8d80a1b18afd327e23e9
+SHA1: cd21ac56733ce96cac583140d9ddafcebdff87fa
+SHA256: 7e71bdf72c4a1018f1e60317524e45800eb56b047b9dfa3400ae1a4f46a1a177
